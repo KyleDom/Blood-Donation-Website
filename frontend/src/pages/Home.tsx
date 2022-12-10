@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 import React from "react";
 
 function Home() {
+=======
+export function Home() {
+>>>>>>> e427b24551673506a250af55b64f058ff0ee5409
   return (
     <>
       <div className="headline">
@@ -15,4 +19,8 @@ function Home() {
   );
 }
 
+<<<<<<< HEAD
 export default Home;
+=======
+export default Home;
+>>>>>>> e427b24551673506a250af55b64f058ff0ee5409
