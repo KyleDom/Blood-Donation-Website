@@ -6,11 +6,7 @@ export function Navbar() {
     <NavbarBs className="navbar bg-danger mb-3">
       <Container>
         <Nav className="d-flex gap-3">
-<<<<<<< HEAD
           <h3 className="life-quest text-dark">
-=======
-        <h3 className="life-quest text-dark">
->>>>>>> e427b24551673506a250af55b64f058ff0ee5409
             Life<span className="text-danger">Quest</span>
           </h3>
           <Nav.Link to="/" as={NavLink}>
